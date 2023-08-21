@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'views' => 'voyager-site::site',
+    'views' => 'site',
 
     'homepage-blade' => 'home',
 
@@ -20,5 +20,5 @@ return [
         //     ],
         //     'template' => 'blade_name', // used default if not present or null
         // ]
-    ]
+    ],
 ];
